@@ -1,1 +1,1 @@
-# Sentiment-Analysis-of-Twitter-using-ML-and-NLP
+# Twitter-Sentiment-Analysis-(NLP)
